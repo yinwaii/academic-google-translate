@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         谷歌翻译一键增强-智能去除换行、论文翻译优化
-// @version      0.3
+// @version      1.0
 // @license      MIT
 // @description  ① 智能检测pdf复制文本时产生的换行符，同时保留段落形状(避免变成一段)。② 在翻译arxiv网页版论文(ar5iv)时，避免排版混乱，避免翻译作者、图表、引用、参考文献等。
 // @author       yinwaii
